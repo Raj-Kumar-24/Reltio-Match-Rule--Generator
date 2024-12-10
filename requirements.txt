@@ -1,4 +1,2 @@
 streamlit
 openai
-base64
-requests
