@@ -1,0 +1,5 @@
+streamlit
+openai
+json
+base64
+requests
